@@ -1,0 +1,15 @@
+{
+  "name": "algoan-bank-selection",
+  "version": "1.0.0",
+  "description": "Application  de décision de Credit Bancaire développer en Tyscript avec Playwright pour l'automatisation et Cucumber pour la gestion des cas de test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
