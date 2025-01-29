@@ -20,7 +20,7 @@ export class BankSelectionPage {
     }
 
     async selectBank(bankName: string) {
-        await this.page.getByText('Algoan Bank').click();
+        await this.page.getByText(bankName).click();
     }
 
     async clickJaiComprisButton() {
