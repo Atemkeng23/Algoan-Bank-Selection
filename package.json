@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Application  de décision de Credit Bancaire développer en Tyscript avec Playwright pour l'automatisation et Cucumber pour la gestion des cas de test",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^22.10.10",
     "typescript": "^5.7.3"
   }
 }
