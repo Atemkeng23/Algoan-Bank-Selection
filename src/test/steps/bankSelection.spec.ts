@@ -78,9 +78,9 @@ When('the user clicks the Autoriser l\'accès button', async function () {
 });
 
 Then('the user should see the account selection page', async function () {
-    await expect(page.getByRole('heading', { name: 'Sélectionnez les comptes à' })).toBeVisible();
+  await page.waitForTimeout(15000); // Attendre 15 secondes pour que la page se charge
+  await expect(page.getByRole('heading', { name: /Sélectionnez les comptes à/i })).toBeVisible();
 });
-
 After(async function () {
   if (page && !page.isClosed()) await page.close();
   if (context && context.pages().length > 0) await context.close();
