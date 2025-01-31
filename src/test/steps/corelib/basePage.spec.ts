@@ -9,7 +9,7 @@ let bCtx: BrowserContext;
 let page: Page;
 
 Before(async function () {
-  browser = await chromium.launch({ headless: false, channel: "chrome", args: ['--start-maximized'] });
+  browser = await chromium.launch({ headless: true, channel: "chrome", args: ['--start-maximized'] });
   bCtx = await browser.newContext({ viewport: null, javaScriptEnabled: true });
   page = await bCtx.newPage();
 });
