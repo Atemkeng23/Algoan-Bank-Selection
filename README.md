@@ -7,7 +7,7 @@ Application  de décision de Credit Bancaire développer en Tyscript avec Playwr
 - Node.js (version LTS recommandée)
 - npm (inclus avec Node.js)
 - Playwright
-- Cucumber
+- Cucumber@cucumber
 
 ## Installation
 
@@ -30,27 +30,27 @@ Application  de décision de Credit Bancaire développer en Tyscript avec Playwr
 
    ## Structure du Projet
 
-   Algoan-Bank-Selection/
-   ├── .github/
-   │   └── workflows/
-   │       └── ci.yml
-   ├── node_modules/
-   ├── src/
-   │   ├── corelib/
-   │   │   └── basePage.spec.ts
-   │   ├── test/
-   │   │   ├── features/
-   │   │   │   └── bankSelection.feature
-   │   │   ├── pages/
-   │   │   │   └── BankSelectionPage.ts
-   │   │   └── steps/
-   │   │       └── bankSelection.spec.ts
-   ├── .gitignore
-   ├── package.json
-   ├── package-lock.json
-   ├── playwright.config.ts
-   ├── tsconfig.json
-   └── README.md
+Algoan-Bank-Selection/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── node_modules/
+├── src/
+│   ├── corelib/
+│   │   └── basePage.spec.ts
+│   ├── test/
+│   │   ├── features/
+│   │   │   └── bankSelection.feature
+│   │   ├── pages/
+│   │   │   └── BankSelectionPage.ts
+│   │   └── steps/
+│   │       └── bankSelection.spec.ts
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── playwright.config.ts
+├── tsconfig.json
+└── README.md
 4. Définition des Scénarios de Test Fonctionnel
 
    `Feature: Bank Selection and Connection
