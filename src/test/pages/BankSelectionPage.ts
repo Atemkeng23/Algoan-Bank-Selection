@@ -1,4 +1,4 @@
-import { Page, expect } from '@playwright/test';
+import { Page } from '@playwright/test';
 
 export class BankSelectionPage {
     readonly page: Page;
@@ -43,6 +43,7 @@ export class BankSelectionPage {
     }
 
     async clickConnecterLaBanque() {
+        await this.page.waitForSelector('button:has-text("Connecter la banque")', { state: 'visible', timeout: 60000 });
         await this.page.getByRole('button', { name: 'Connecter la banque' }).click();
     }
 
