@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 2350552899
+              "duration": 2503170499
             }
           },
           {
@@ -22,7 +22,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 799048100
+              "duration": 711457499
             }
           },
           {
@@ -35,7 +35,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3518133899
+              "duration": 3335437400
             }
           },
           {
@@ -48,7 +48,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2584987999
+              "duration": 2222947599
             }
           },
           {
@@ -61,7 +61,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 52746400
+              "duration": 39644100
             }
           },
           {
@@ -70,11 +70,11 @@
             "line": 7,
             "name": "the user selects \"Algoan bank\"",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:30"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:31"
             },
             "result": {
               "status": "passed",
-              "duration": 321918700
+              "duration": 300591899
             }
           },
           {
@@ -83,11 +83,11 @@
             "line": 8,
             "name": "the user should see the bank connection page",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:34"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:36"
             },
             "result": {
               "status": "passed",
-              "duration": 1490341099
+              "duration": 1162778100
             }
           },
           {
@@ -95,7 +95,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 508562599
+              "duration": 335828400
             }
           },
           {
@@ -103,7 +103,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 462600
+              "duration": 292200
             }
           }
         ],
@@ -122,7 +122,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 887196500
+              "duration": 835400599
             }
           },
           {
@@ -130,7 +130,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 493602300
+              "duration": 422760899
             }
           },
           {
@@ -143,7 +143,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 394567799
+              "duration": 474896099
             }
           },
           {
@@ -156,7 +156,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2507052699
+              "duration": 1919265399
             }
           },
           {
@@ -169,7 +169,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 44262500
+              "duration": 43446200
             }
           },
           {
@@ -178,11 +178,11 @@
             "line": 14,
             "name": "the user selects \"Algoan bank\"",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:30"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:31"
             },
             "result": {
               "status": "passed",
-              "duration": 216068800
+              "duration": 259238800
             }
           },
           {
@@ -191,11 +191,11 @@
             "line": 15,
             "name": "the user clicks the button j'ai compris",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:39"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:42"
             },
             "result": {
               "status": "passed",
-              "duration": 308938599
+              "duration": 420954600
             }
           },
           {
@@ -204,11 +204,11 @@
             "line": 16,
             "name": "the user should see the welcome page",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:60"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:67"
             },
             "result": {
               "status": "passed",
-              "duration": 2087239599
+              "duration": 2044583300
             }
           },
           {
@@ -217,11 +217,11 @@
             "line": 17,
             "name": "the user clicks the Admin button",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:64"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:71"
             },
             "result": {
               "status": "passed",
-              "duration": 155864199
+              "duration": 41201399
             }
           },
           {
@@ -230,11 +230,11 @@
             "line": 18,
             "name": "the user selects the dossier option",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:68"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:75"
             },
             "result": {
               "status": "passed",
-              "duration": 237718299
+              "duration": 851244599
             }
           },
           {
@@ -243,11 +243,11 @@
             "line": 19,
             "name": "the user clicks the Connecter la banque button",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:72"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:79"
             },
             "result": {
               "status": "passed",
-              "duration": 79947200
+              "duration": 39529799
             }
           },
           {
@@ -256,11 +256,11 @@
             "line": 20,
             "name": "the user clicks the Autoriser l'accès button",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:76"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:84"
             },
             "result": {
               "status": "passed",
-              "duration": 1134054000
+              "duration": 1193241399
             }
           },
           {
@@ -269,11 +269,11 @@
             "line": 21,
             "name": "the user should see the account selection page",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:80"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:88"
             },
             "result": {
               "status": "passed",
-              "duration": 15039162800
+              "duration": 15034818199
             }
           },
           {
@@ -281,7 +281,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 306202999
+              "duration": 426150900
             }
           },
           {
@@ -289,7 +289,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1819887600
+              "duration": 1925124900
             }
           }
         ],
@@ -308,7 +308,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 977697800
+              "duration": 963812200
             }
           },
           {
@@ -316,7 +316,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 428144700
+              "duration": 446049699
             }
           },
           {
@@ -329,7 +329,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 447149300
+              "duration": 827716600
             }
           },
           {
@@ -342,7 +342,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1958034699
+              "duration": 2445151100
             }
           },
           {
@@ -355,7 +355,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 41629000
+              "duration": 51570400
             }
           },
           {
@@ -364,11 +364,11 @@
             "line": 28,
             "name": "the user selects \"Algoan bank\"",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:30"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:31"
             },
             "result": {
               "status": "passed",
-              "duration": 254106999
+              "duration": 192450799
             }
           },
           {
@@ -377,11 +377,11 @@
             "line": 29,
             "name": "the user clicks the button j'ai compris",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:39"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:42"
             },
             "result": {
               "status": "passed",
-              "duration": 1202205299
+              "duration": 472015200
             }
           },
           {
@@ -390,11 +390,11 @@
             "line": 30,
             "name": "the user should see the bank connection page and the user chooses an account",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:43"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:47"
             },
             "result": {
               "status": "passed",
-              "duration": 1952443199
+              "duration": 1965858699
             }
           },
           {
@@ -403,11 +403,11 @@
             "line": 31,
             "name": "the user click to Connecter la banque",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:47"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:52"
             },
             "result": {
               "status": "passed",
-              "duration": 124005400
+              "duration": 114440999
             }
           },
           {
@@ -416,11 +416,11 @@
             "line": 32,
             "name": "the user click to the button refuser l'accès",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:51"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:57"
             },
             "result": {
               "status": "passed",
-              "duration": 1228023099
+              "duration": 1069872099
             }
           },
           {
@@ -429,11 +429,11 @@
             "line": 33,
             "name": "the user should see the transmission failure message",
             "match": {
-              "location": "src\\test\\steps\\bankSelection.spec.ts:55"
+              "location": "src\\test\\steps\\bankSelection.spec.ts:62"
             },
             "result": {
               "status": "passed",
-              "duration": 6111694600
+              "duration": 5869668499
             }
           },
           {
@@ -441,7 +441,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 282184399
+              "duration": 380397299
             }
           },
           {
@@ -449,7 +449,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 92199
+              "duration": 88099
             }
           }
         ],
