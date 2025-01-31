@@ -1,4 +1,4 @@
-name: Cucumber Tests integration
+name: playwright-cucumber-ci
 
 on:
   push:
