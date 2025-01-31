@@ -9,7 +9,7 @@ let page: Page;
 let bankSelectionPage: BankSelectionPage;
 
 Before(async function () {
-  browser = await chromium.launch({ headless: false });
+  browser = await chromium.launch({ headless: true });
   context = await browser.newContext();
   page = await context.newPage();
   bankSelectionPage = new BankSelectionPage(page);

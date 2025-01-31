@@ -42,5 +42,5 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: html-report
-        path: reports/html-formatter.html
+        path: reports/html-formatte.html
         retention-days: 30
