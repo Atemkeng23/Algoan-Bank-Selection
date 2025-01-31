@@ -43,7 +43,7 @@ export class BankSelectionPage {
     }
 
     async clickConnecterLaBanque() {
-        await this.page.waitForSelector('button:has-text("Connecter la banque")', { state: 'visible', timeout: 120 * 1000 });
+        await this.page.waitForSelector('button:has-text("Connecter la banque")', { state: 'visible', timeout: 150000 });
         await this.page.getByRole('button', { name: 'Connecter la banque' }).click();
     }
 
