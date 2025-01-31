@@ -21,12 +21,14 @@ Application  de décision de Credit Bancaire développer en Tyscript avec Playwr
    ```
 2. Installez les dépendances :
 
-   npm install
-3. Installez les navigateurs Playwright : npx playwright install --with-deps.
+   npm install requirement.txt
+3. Installez les navigateurs Playwright : npx playwright install --with-deps. npm install cucumber
 
 
    npx cucumber-js
    npm test
+
+4. Affichage des Step de test sur le navigateur en:  local : headless:false, pour un environnement sans interface headless:true.
 
    ## Structure du Projet
 
