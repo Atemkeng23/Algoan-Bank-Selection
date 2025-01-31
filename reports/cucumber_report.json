@@ -4,7 +4,7 @@
     "elements": [
       {
         "description": "",
-        "id": "bank-selection;search-and-select-bank",
+        "id": "bank-selection/connection;search-and-select-bank",
         "keyword": "Scenario",
         "line": 3,
         "name": "Search and select Bank",
@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1514527900
+              "duration": 1623873099
             }
           },
           {
@@ -22,7 +22,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 2298221200
+              "duration": 856818999
             }
           },
           {
@@ -30,9 +30,12 @@
             "keyword": "Given ",
             "line": 4,
             "name": "the user navigates to the bank selection page",
+            "match": {
+              "location": "src\\test\\steps\\bankSelection.spec.ts:18"
+            },
             "result": {
-              "status": "ambiguous",
-              "duration": 0
+              "status": "passed",
+              "duration": 1146552600
             }
           },
           {
@@ -44,8 +47,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:22"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2002453599
             }
           },
           {
@@ -57,8 +60,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:26"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 46702300
             }
           },
           {
@@ -70,8 +73,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:30"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 312170500
             }
           },
           {
@@ -83,8 +86,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:34"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 1057750800
             }
           },
           {
@@ -92,7 +95,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1769394500
+              "duration": 522568800
             }
           },
           {
@@ -100,7 +103,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1512720900
+              "duration": 309499
             }
           }
         ],
@@ -109,7 +112,7 @@
       },
       {
         "description": "",
-        "id": "bank-selection;bank-connection-done",
+        "id": "bank-selection/connection;bank-connection-done",
         "keyword": "Scenario",
         "line": 10,
         "name": "Bank Connection done",
@@ -119,7 +122,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 691478900
+              "duration": 680954799
             }
           },
           {
@@ -127,7 +130,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1399556400
+              "duration": 547834100
             }
           },
           {
@@ -135,9 +138,12 @@
             "keyword": "Given ",
             "line": 11,
             "name": "the user navigates to the bank selection page",
+            "match": {
+              "location": "src\\test\\steps\\bankSelection.spec.ts:18"
+            },
             "result": {
-              "status": "ambiguous",
-              "duration": 0
+              "status": "passed",
+              "duration": 406285799
             }
           },
           {
@@ -149,8 +155,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:22"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2528109100
             }
           },
           {
@@ -162,8 +168,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:26"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 40220600
             }
           },
           {
@@ -175,8 +181,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:30"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 215516199
             }
           },
           {
@@ -188,8 +194,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:39"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 525082600
             }
           },
           {
@@ -201,8 +207,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:60"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 1565727399
             }
           },
           {
@@ -214,8 +220,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:64"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 34248499
             }
           },
           {
@@ -227,8 +233,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:68"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 247449299
             }
           },
           {
@@ -240,8 +246,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:72"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 40180399
             }
           },
           {
@@ -253,8 +259,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:76"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 1149129600
             }
           },
           {
@@ -266,8 +272,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:80"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 3998088400
             }
           },
           {
@@ -275,7 +281,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 965350799
+              "duration": 345910499
             }
           },
           {
@@ -283,7 +289,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1305184900
+              "duration": 400328800
             }
           }
         ],
@@ -292,7 +298,7 @@
       },
       {
         "description": "",
-        "id": "bank-selection;bank-connection-failure",
+        "id": "bank-selection/connection;bank-connection-failure",
         "keyword": "Scenario",
         "line": 24,
         "name": "Bank Connection Failure",
@@ -302,7 +308,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 660464700
+              "duration": 610787199
             }
           },
           {
@@ -310,7 +316,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1339412699
+              "duration": 606498099
             }
           },
           {
@@ -318,9 +324,12 @@
             "keyword": "Given ",
             "line": 25,
             "name": "the user navigates to the bank selection page",
+            "match": {
+              "location": "src\\test\\steps\\bankSelection.spec.ts:18"
+            },
             "result": {
-              "status": "ambiguous",
-              "duration": 0
+              "status": "passed",
+              "duration": 504311899
             }
           },
           {
@@ -332,8 +341,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:22"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 1939123999
             }
           },
           {
@@ -345,8 +354,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:26"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 26082700
             }
           },
           {
@@ -358,8 +367,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:30"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 250850000
             }
           },
           {
@@ -371,8 +380,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:39"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 312502199
             }
           },
           {
@@ -384,8 +393,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:43"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 860651100
             }
           },
           {
@@ -397,8 +406,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 122624800
             }
           },
           {
@@ -410,8 +419,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:51"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 1077416499
             }
           },
           {
@@ -423,8 +432,8 @@
               "location": "src\\test\\steps\\bankSelection.spec.ts:55"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 4729123299
             }
           },
           {
@@ -432,7 +441,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1182715900
+              "duration": 361512499
             }
           },
           {
@@ -440,7 +449,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1637818500
+              "duration": 74199
             }
           }
         ],
@@ -448,233 +457,11 @@
         "type": "scenario"
       }
     ],
-    "id": "bank-selection",
+    "id": "bank-selection/connection",
     "line": 1,
     "keyword": "Feature",
-    "name": "Bank selection",
+    "name": "Bank selection/Connection",
     "tags": [],
     "uri": "src\\test\\features\\TestFonctionnel.feature"
-  },
-  {
-    "description": "Feature: Performance Testing",
-    "elements": [
-      {
-        "description": "",
-        "id": "performance-testing-and-comparability-testing;page-load-time",
-        "keyword": "Scenario",
-        "line": 5,
-        "name": "Page Load Time",
-        "steps": [
-          {
-            "keyword": "Before",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 669833300
-            }
-          },
-          {
-            "keyword": "Before",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 1102032600
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 6,
-            "name": "the user go to bank selection page",
-            "match": {
-              "location": "src\\test\\steps\\TestPerformance.spec.ts:5"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 859029400
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 7,
-            "name": "the user click the terms and conditions checkbox",
-            "match": {
-              "location": "src\\test\\steps\\TestPerformance.spec.ts:9"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 2102570300
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 8,
-            "name": "the user clicks the {string} button",
-            "result": {
-              "status": "undefined",
-              "duration": 0
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 9,
-            "name": "the page should load in less than 3 seconds",
-            "match": {
-              "location": "src\\test\\steps\\TestPerformance.spec.ts:21"
-            },
-            "result": {
-              "status": "skipped",
-              "duration": 0
-            }
-          },
-          {
-            "keyword": "After",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 483068300
-            }
-          },
-          {
-            "keyword": "After",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 707925699
-            }
-          }
-        ],
-        "tags": [],
-        "type": "scenario"
-      },
-      {
-        "description": "",
-        "id": "performance-testing-and-comparability-testing;compatibility-browser-testing",
-        "keyword": "Scenario",
-        "line": 12,
-        "name": "Compatibility browser Testing",
-        "steps": [
-          {
-            "keyword": "Before",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 663096000
-            }
-          },
-          {
-            "keyword": "Before",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 848973499
-            }
-          },
-          {
-            "keyword": "Before",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 603478099
-            }
-          },
-          {
-            "keyword": "Before",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 544664900
-            }
-          }
-        ],
-        "tags": [],
-        "type": "scenario"
-      },
-      {
-        "description": "",
-        "id": "performance-testing-and-comparability-testing;browser-compatibility",
-        "keyword": "Scenario",
-        "line": 14,
-        "name": "Browser Compatibility",
-        "steps": [
-          {
-            "keyword": "Before",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 506252599
-            }
-          },
-          {
-            "keyword": "Before",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 644835900
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 15,
-            "name": "the user navigate to the bank selection pages",
-            "result": {
-              "status": "undefined",
-              "duration": 0
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 16,
-            "name": "the user uses different browsers (Chrome, Firefox, Safari, Edge)",
-            "result": {
-              "status": "undefined",
-              "duration": 0
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 17,
-            "name": "the page should render correctly on all browsers",
-            "match": {
-              "location": "src\\test\\steps\\TestBrowser.spec.ts:27"
-            },
-            "result": {
-              "status": "skipped",
-              "duration": 0
-            }
-          },
-          {
-            "keyword": "After",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 854713700
-            }
-          },
-          {
-            "keyword": "After",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 465610699
-            }
-          }
-        ],
-        "tags": [],
-        "type": "scenario"
-      }
-    ],
-    "id": "performance-testing-and-comparability-testing",
-    "line": 1,
-    "keyword": "Feature",
-    "name": "Performance Testing And comparability Testing",
-    "tags": [],
-    "uri": "src\\test\\features\\TestNonFonctionnel.feature"
   }
 ]
